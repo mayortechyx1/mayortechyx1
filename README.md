@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋, I'm Emmanuel Iheamarame
 
 <!--
 **mayortechyx1/mayortechyx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 **Full-Stack Software Engineer**  
+🌍 Open to Remote Opportunities  
+
+---
+
+## 📫 How to Reach Me
+- **Email**: mayordev18@gmail.com  
+- **LinkedIn**: [Emmanuel Iheamarame](www.linkedin.com/in/emmanuel-iheamarame-8bb168250)  
+
+---
+
+## 🧑‍💻 About Me
+
+I am a passionate Full-Stack Software Engineer with over 2 years of experience building scalable web applications using the **MERN stack**. I specialize in:  
+- Designing user-friendly interfaces with **React.js** and **TailwindCSS**  
+- Developing robust backend systems with **Node.js** and **Express.js**  
+- Creating and optimizing databases using **MongoDB** and **PostgreSQL**  
+
+I love solving real-world problems with code, contributing to open-source projects, and learning emerging technologies to stay ahead in the ever-evolving field of software engineering.  
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Frontend**: React.js, Redux, TailwindCSS, HTML, CSS, JavaScript (ES6+)  
+- **Backend**: Node.js, Express.js, REST APIs, GraphQL  
+- **Database**: MongoDB, PostgreSQL  
+- **Other Tools**: Git, GitHub, AWS, Docker, Jest, Postman
+
+---
+
+## 🏆 Projects
+
+### [Forever Fashion](https://github.com/mayortechyx1/Forever-Fashion)  
+A full-stack web application where users can browse, filter, and purchase items.  
+- **Frontend**: React.js, Redux  
+- **Backend**: Node.js, Express.js, MongoDB   
+
+### [Ski REST API](https://github.com/mayortechyx1/Ski-REST-API)  
+A RESTful API for team management, allowing users to collaborate and manage posts efficiently.  
+- **Tech Stack**: Node.js, Express.js, MongoDB
+
+---
+
+💡 *"Let's collaborate on creating impactful software solutions!"*
