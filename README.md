@@ -43,20 +43,7 @@ I love solving real-world problems with code, contributing to open-source projec
 - **Backend**: Node.js, Express.js, REST APIs, GraphQL  
 - **Database**: MongoDB, PostgreSQL  
 - **Other Tools**: Git, GitHub, AWS, Docker, Jest, Postman
-
----
-
-## 🏆 Projects
-
-### [Forever Fashion](https://github.com/mayortechyx1/Forever-Fashion)  
-A full-stack web application where users can browse, filter, and purchase items.  
-- **Frontend**: React.js, Redux  
-- **Backend**: Node.js, Express.js, MongoDB   
-
-### [Ski REST API](https://github.com/mayortechyx1/Ski-REST-API)  
-A RESTful API for team management, allowing users to collaborate and manage posts efficiently.  
-- **Tech Stack**: Node.js, Express.js, MongoDB
-
+  
 ---
 
 💡 *"Let's collaborate on creating impactful software solutions!"*
