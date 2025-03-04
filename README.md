@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-I am a passionate Full-Stack Software Engineer with over 2 years of experience building scalable web applications using the **MERN stack**. I specialize in:  
-- Designing user-friendly interfaces with **React.js** and **TailwindCSS**  
+I am a passionate Full-Stack Software Engineer with over 4 years of experience building scalable web applications using the **MERN stack**. I specialize in:  
+- Designing user-friendly interfaces with **React.js**, **Next.js** and **TailwindCSS**  
 - Developing robust backend systems with **Node.js** and **Express.js**  
 - Creating and optimizing databases using **MongoDB** and **PostgreSQL**  
 
@@ -39,7 +39,7 @@ I love solving real-world problems with code, contributing to open-source projec
 
 ## 🔧 Technologies & Tools
 
-- **Frontend**: React.js, Redux, TailwindCSS, HTML, CSS, JavaScript (ES6+)  
+- **Frontend**: Next.js, React.js, Redux, TailwindCSS, HTML, CSS, JavaScript (ES6+)  
 - **Backend**: Node.js, Express.js, REST APIs, GraphQL  
 - **Database**: MongoDB, PostgreSQL  
 - **Other Tools**: Git, GitHub, AWS, Docker, Jest, Postman
